@@ -12,7 +12,7 @@
 <div align="center" >
  
   <img align="center" alt="Coding" src="https://media.discordapp.net/attachments/546002217711435798/994327482754928803/icon__html_5_.png">
-  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+  [![portfolio]
   <img align="center" alt="Coding" src="https://media.discordapp.net/attachments/546002217711435798/994328867726696588/icon__css_3_.png">
   
   <img align="center" alt="Coding" src="https://media.discordapp.net/attachments/546002217711435798/994328865793134672/icon__javascript_.png">

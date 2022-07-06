@@ -25,6 +25,7 @@
   •
   <img align="center" alt="Coding" src="https://media.discordapp.net/attachments/546002217711435798/994328867055607938/icon__Azure_Subscription_.png">
   
+  </div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
 </div>
 
 # Contribuições 🚀
@@ -37,5 +38,7 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuriMartins)](https://git.io/streak-stats)
 
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 

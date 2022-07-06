@@ -29,8 +29,8 @@
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuriMartins)](https://github.com/anuraghazra/github-readme-stats)
-
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriMartins)](https://github.com/anuraghazra/github-readme-stats)
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuriMartins)](https://git.io/streak-stats)
 
 </div>

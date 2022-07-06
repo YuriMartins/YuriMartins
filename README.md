@@ -27,7 +27,7 @@
   
 </div>
 
-# Contribuições 🛠 
+# Contribuições 🚀
 <div align="center">
   
   

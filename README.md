@@ -27,7 +27,7 @@
   
   
 </div>
-</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+
 # Contribuições 🚀
 <div align="center">
   
@@ -39,6 +39,11 @@
 
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+
 
 

@@ -26,3 +26,7 @@
   <img align="center" alt="Coding" src="https://media.discordapp.net/attachments/546002217711435798/994328867055607938/icon__Azure_Subscription_.png">
   
 </div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuriMartins)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuriMartins)](https://git.io/streak-stats)

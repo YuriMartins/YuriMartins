@@ -25,9 +25,9 @@
   •
   <img align="center" alt="Coding" src="https://media.discordapp.net/attachments/546002217711435798/994328867055607938/icon__Azure_Subscription_.png">
   
-  </div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+  
 </div>
-
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
 # Contribuições 🚀
 <div align="center">
   

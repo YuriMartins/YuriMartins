@@ -12,6 +12,7 @@
 <div align="center">
  
   <img align="center" alt="Coding" src="https://media.discordapp.net/attachments/546002217711435798/994327482754928803/icon__html_5_.png">
+  <img align="center" alt="Coding" src="">
   <img align="center" alt="Coding" src="https://media.discordapp.net/attachments/546002217711435798/994328867726696588/icon__css_3_.png">
   <img align="center" alt="Coding" src="https://media.discordapp.net/attachments/546002217711435798/994328865793134672/icon__javascript_.png">
   <img align="center" alt="Coding" src="https://media.discordapp.net/attachments/546002217711435798/994328866392907927/icon__react_original_wordmark_.png">

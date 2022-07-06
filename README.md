@@ -2,5 +2,5 @@
 
 ![](https://komarev.com/ghpvc/?username=yuriMartins&color=blueviolet&label=Visualizações)
 
-[![Generic badge](https://img.shields.io/badge/<Repositórios>-<11>-<blueviolet>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Repositórios-11-blueviolet)](https://shields.io/)
 
